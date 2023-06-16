@@ -1,0 +1,25 @@
+{
+  "values":[
+    "minecraft:oak_log",
+    "minecraft:birch_log",
+    "minecraft:spruce_log",
+    "minecraft:dark_oak_log",
+    "minecraft:jungle_log",
+    "minecraft:acacia_log",
+    "minecraft:mangrove_log",
+    "minecraft:cherry_log",
+    "minecraft:warped_stem",
+    "minecraft:crimson_stem",
+    "minecraft:oak_planks",
+    "minecraft:oak_stairs",
+    "minecraft:oak_fence",
+    "minecraft:oak_door",
+    "minecraft:oak_slab",
+    "minecraft:oak_trapdoor",
+    "minecraft:oak_pressure_plate",
+    "minecraft:tnt",
+    "minecraft:magenta_glazed_terracotta",
+    "minecraft:chest",
+    "minecraft:gold_nugget"
+  ]
+}
